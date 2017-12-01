@@ -1,4 +1,4 @@
-# Hierarchical Motion Demo
+# JEPG - Hierarchical Motion Demo 
 
 
 ## Illustration of a single trial
